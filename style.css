@@ -1,0 +1,39 @@
+.card {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+}
+/* img {
+    height: 500px;
+    width: 200px;
+    object-fit: cover;
+    } */
+.card-body {
+  display: flex;
+
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  flex-direction: ;
+}
+.card-body2 {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  justify-content: space-evenly;
+}
+.card-body3 {
+  display: flex;
+  /* justify-content: center; */
+  justify-content: space-around;
+}
+
+.liked {
+  color: red;
+}
+.total-price-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  font-size: xx-large;
+}
